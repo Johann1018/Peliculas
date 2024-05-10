@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\otroParcial\otroParcial\bin\Debug\otroParcial.exe.config
+C:\Users\User\source\repos\otroParcial\otroParcial\bin\Debug\otroParcial.exe
+C:\Users\User\source\repos\otroParcial\otroParcial\bin\Debug\otroParcial.pdb
+C:\Users\User\source\repos\otroParcial\otroParcial\obj\Debug\otroParcial.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\otroParcial\otroParcial\obj\Debug\otroParcial.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\otroParcial\otroParcial\obj\Debug\otroParcial.Form1.resources
+C:\Users\User\source\repos\otroParcial\otroParcial\obj\Debug\otroParcial.Properties.Resources.resources
+C:\Users\User\source\repos\otroParcial\otroParcial\obj\Debug\otroParcial.csproj.GenerateResource.cache
+C:\Users\User\source\repos\otroParcial\otroParcial\obj\Debug\otroParcial.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\otroParcial\otroParcial\obj\Debug\otroParcial.exe
+C:\Users\User\source\repos\otroParcial\otroParcial\obj\Debug\otroParcial.pdb
